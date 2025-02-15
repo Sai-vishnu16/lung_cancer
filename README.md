@@ -16,4 +16,4 @@ risk status.
 Here, in this project I used **Random Forest Classifier to detect the lung cancer**.
 
 # Note: How to access this dataset
-Using daataset from: https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
+Using dataset from: https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
